@@ -6,4 +6,3 @@ mock
 pyopenssl>=0.13.1
 pem>=0.1.0
 python-dateutil
-twisted
